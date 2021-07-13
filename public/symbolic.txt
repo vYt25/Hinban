@@ -1,0 +1,1 @@
+mklink /d attachments "C:/Apache24/htdocs/hinban/storage/app/attachments"
